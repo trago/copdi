@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicio on COPDI</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Inicio on COPDI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2017 18:52:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beneficiarios</title>
+      <link>http://example.org/post/beneficios/</link>
+      <pubDate>Sun, 07 May 2017 19:58:55 -0500</pubDate>
+      
+      <guid>http://example.org/post/beneficios/</guid>
+      <description> A Quien beneficia el programa  Titular (Casado)
+ Titular Conyugue Hijos e hijas  Titular (Soltero)
+ Titular Padre y madre del titular   </description>
+    </item>
+    
+    <item>
+      <title>COPDI</title>
+      <link>http://example.org/_header/</link>
+      <pubDate>Sun, 07 May 2017 18:52:31 -0500</pubDate>
+      
+      <guid>http://example.org/_header/</guid>
+      <description>COPDI</description>
+    </item>
+    
+    <item>
+      <title>Nuestros servicios</title>
+      <link>http://example.org/post/servicios/</link>
+      <pubDate>Sun, 07 May 2017 18:52:31 -0500</pubDate>
+      
+      <guid>http://example.org/post/servicios/</guid>
+      <description>Cobertura total Este programa cubre durante los 365 días del año los siguientes servicios para cada uno de los integrantes del plan familiar:
+ Diagnóstico Rayos X Modelos Tres limpiezas Extracciones Obturaciones con resina o amalgamas Selladores de fisuras y fosetas (niños) Pulpotomía Blanqueamiento dental Guarda oclusal  Cobertura parcial  Protesis dental Coronas y puentes metal porcelana Coronas y puentes de porcelanas libres de metal Coronas y puentes en circonia Incrustaciones estéticas y metálicas Placas totales Placas parciales Placas parciales removibles  El pago extra único de este servicio será el costo del laboratorio dental</description>
+    </item>
+    
+    <item>
+      <title>Quienes somos</title>
+      <link>http://example.org/post/about/</link>
+      <pubDate>Sun, 07 May 2017 18:52:31 -0500</pubDate>
+      
+      <guid>http://example.org/post/about/</guid>
+      <description>Somos un grupo de profesionales comprometidos con elevar el nivel de salud buco-dental de esta sociedad.</description>
+    </item>
+    
+  </channel>
+</rss>

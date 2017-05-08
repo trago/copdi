@@ -1,0 +1,71 @@
+[
+{
+	"uri": "/post/beneficios/",
+	"title": "Beneficiarios",
+	"tags": ["tag1", "tag2"],
+	"description": "",
+	"content": "A Quien beneficia el programa Titular (Casado) Titular Conyugue Hijos e hijas Titular (Soltero) Titular Padre y madre del titular "
+},
+{
+	"uri": "/_header/",
+	"title": "COPDI",
+	"tags": ["tag1", "tag2"],
+	"description": "",
+	"content": "COPDI "
+},
+{
+	"uri": "/",
+	"title": "Inicio",
+	"tags": ["tag1", "tag2"],
+	"description": "",
+	"content": "Centro Odontológico de Prevención Dental Inteligente (COPDI) Estamos preocupados por la salud buco-dental de tu familia, por lo cual hemos creado un programa efectivo, práctico y accesible para grantizar la corrección, atención temprana y prevención de las enfermedades dentales más comunes en la población. De esta manera, tendras la tranquilidad de tener a tu alcance estos servicios a favor de los que mas quieres durante los 365 dias del año. "
+},
+{
+	"uri": "/post/servicios/",
+	"title": "Nuestros servicios",
+	"tags": ["tag1", "tag2"],
+	"description": "",
+	"content": "Cobertura total Este programa cubre durante los 365 días del año los siguientes servicios para cada uno de los integrantes del plan familiar: Diagnóstico Rayos X Modelos Tres limpiezas Extracciones Obturaciones con resina o amalgamas Selladores de fisuras y fosetas (niños) Pulpotomía Blanqueamiento dental Guarda oclusal Cobertura parcial Protesis dental Coronas y puentes metal porcelana Coronas y puentes de porcelanas libres de metal Coronas y puentes en circonia Incrustaciones estéticas y metálicas Placas totales Placas parciales Placas parciales removibles El pago extra único de este servicio será el costo del laboratorio dental Cobertura opcional 25% en las siguintes especialidades: + Ortodoncia + Endodoncia + Periodoncia + Rehabilitación oral + Cirugía + Odontopediatría El descuento aplica con los médicos especialistas de nuestro staff "
+},
+{
+	"uri": "/post/about/",
+	"title": "Quienes somos",
+	"tags": ["tag1", "tag2"],
+	"description": "",
+	"content": "Somos un grupo de profesionales comprometidos con elevar el nivel de salud buco-dental de esta sociedad. "
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/post/",
+	"title": "Posts",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/tag1/",
+	"title": "Tag1",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/tag2/",
+	"title": "Tag2",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "COPDI"
 theme = "docdock"
+publishDir = "docs"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
